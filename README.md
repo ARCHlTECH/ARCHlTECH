@@ -15,7 +15,9 @@
 
 <code><img src="https://github-colored-text-fn3z.vercel.app/api/index.js?text=︶︶︶◟†◞︶︶︶‿⊹︵‿୨♡୧‿︵⊹‿︶︶︶◟†◞︶︶︶&color=ADD8E6&fontSize=15&width=382&height=18" alt="︶︶︶◟†◞︶︶︶‿⊹︵‿୨♡୧‿︵⊹‿︶︶︶◟†◞︶︶︶" title="︶︶︶◟†◞︶︶︶‿⊹︵‿୨♡୧‿︵⊹‿︶︶︶◟†◞︶︶︶"></a></code>
 
-<img width="120" height="120" src="https://github.com/user-attachments/assets/4fdc02fc-e5bc-47eb-8c4e-689a3841c90d" /> <img width="65" height="65" src="https://github.com/user-attachments/assets/e2b2a4fb-ea6c-4c84-a193-4e895d97b4be" /> <img width="65" height="65" src="https://github.com/user-attachments/assets/95199417-1996-4930-956c-a92c4fb43abb" />
+<img weight="35" height="20" src="https://github.com/user-attachments/assets/4c911455-3dfb-457d-98d8-2457bf9cb183"/> <img weight="20" height="20" src="https://github.com/user-attachments/assets/16776c88-9815-4046-93e6-a428b9b31e60" /> <img weight="20" height="20" src="https://github.com/user-attachments/assets/3010fff1-e1cc-44d1-9aaf-c00225db6817" />
+
+
 
 
 
